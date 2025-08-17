@@ -6,7 +6,7 @@ My main interests include data visualization, machine learning, data mining & bi
 <p align="left">
 <a href="https://linkedin.com/in/geoppn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geoppn" height="30" width="40" /></a>
 </p>
-
+//
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geoppn&show_icons=true&locale=en&layout=compact" alt="geoppn" /></p>
 
 
